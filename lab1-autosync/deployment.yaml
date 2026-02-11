@@ -12,7 +12,7 @@ metadata:
 
 spec:
 
-  replicas: 9
+  replicas: 4
 
   selector:
 
